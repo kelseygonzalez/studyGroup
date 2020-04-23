@@ -20,7 +20,9 @@ May 18-29, 2020
 
 ## Schedule
 
-Coming later this spring!
+Note: Due to the "unconference" nature of ResBaz, you can opt to teach a workshop during the registration process. Therefore, the schedule will not be final until the day of. Therefore the schedule below represents what has been scheduled so far.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1VrG5igcxjWNCQumZ3WKc884NO4vKSjHAFKYOO1dYoQg/edit#gid=545182819/pubhtml?widget=true&headers=false" width="640" height="700"></iframe>
 
 ## Where
 
@@ -28,8 +30,7 @@ Coming later this spring!
 
 
 ## Register
-
-<a href="#" class="button" target="_blank">Coming later this spring!</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc52zlVvjEEg5mnlccpjQ_5kycrnDxzthevkU9TkjYLzLq91g/formResponse" class="button" target="_blank">Register your interest here</a>
 
   
   
